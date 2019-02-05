@@ -8,6 +8,7 @@
     "tslint-config-airbnb-base": "^0.2.0",
     "tslint-eslint-rules": "^5.4.0",
     "tslint-eslint-rules-recommended": "^1.2.0",
+    "tslint-origin-ordered-imports-rule": "^1.1.2",
     "tslint-react": "^3.6.0"
   },
   "description": "The TSLint configuration I use for Euclid and other Alexandrian projects.",
@@ -40,7 +41,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "files": [
     "/.package.json",
     "/.LICENSE",

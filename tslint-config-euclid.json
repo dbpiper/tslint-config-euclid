@@ -25,6 +25,10 @@
     ],
     "no-unused-variable": false,
     "object-literal-sort-keys": false,
+    "origin-ordered-imports": [
+      true,
+      "any-number-of-blank-lines"
+    ],
     "variable-name": [
       true,
       "ban-keywords",
@@ -32,5 +36,8 @@
       "allow-leading-underscore",
       "allow-pascal-case"
     ]
-  }
+  },
+  "rulesDirectory": [
+    "node_modules/tslint-origin-ordered-imports-rule/dist"
+  ]
 }
