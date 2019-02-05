@@ -1,0 +1,35 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:latest",
+    "tslint-eslint-rules-recommended",
+    "tslint-config-airbnb",
+    "tslint-config-airbnb-base"
+  ],
+  "jsRules": {},
+  "rules": {
+    "import-name": false,
+    "no-consecutive-blank-lines": [
+      true,
+      2
+    ],
+    "object-literal-sort-keys": false,
+    "variable-name": [
+      true,
+      "ban-keywords",
+      "check-format",
+      "allow-leading-underscore",
+      "allow-pascal-case"
+    ],
+    "no-unused-variable": false,
+    "align": [
+      true,
+      "statements",
+      "members"
+    ],
+    "no-implicit-dependencies": [
+      true,
+      "dev"
+    ]
+  }
+}
