@@ -1,7 +1,7 @@
 # TSLint Config Alexandria
 
-[![NPM version](https://img.shields.io/npm/v/tslint-config-airbnb.svg?style=flat)](https://www.npmjs.com/package/tslint-config-alexandria)
-[![Downloads](http://img.shields.io/npm/dm/tslint-config-airbnb.svg?style=flat)](https://npmjs.org/package/tslint-config-alexandria)
+[![NPM version](https://img.shields.io/npm/v/tslint-config-alexandria.svg?style=flat)](https://www.npmjs.com/package/tslint-config-alexandria)
+[![Downloads](http://img.shields.io/npm/dm/tslint-config-alexandria.svg?style=flat)](https://npmjs.org/package/tslint-config-alexandria)
 
 This is a basic TSLint package which contains my personal TSLint preferences.
 It may also be useful to anyone else who happens to have similar preferences.
