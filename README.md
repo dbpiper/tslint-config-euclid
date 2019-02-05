@@ -1,7 +1,7 @@
-# TSLint Config Alexandria
+# TSLint Config Euclid
 
-[![NPM version](https://img.shields.io/npm/v/tslint-config-alexandria.svg?style=flat)](https://www.npmjs.com/package/tslint-config-alexandria)
-[![Downloads](http://img.shields.io/npm/dm/tslint-config-alexandria.svg?style=flat)](https://npmjs.org/package/tslint-config-alexandria)
+[![NPM version](https://img.shields.io/npm/v/tslint-config-euclid.svg?style=flat)](https://www.npmjs.com/package/tslint-config-euclid)
+[![Downloads](http://img.shields.io/npm/dm/tslint-config-euclid.svg?style=flat)](https://npmjs.org/package/tslint-config-euclid)
 
 This is a basic TSLint package which contains my personal TSLint preferences.
 It may also be useful to anyone else who happens to have similar preferences.
@@ -12,7 +12,7 @@ as much as possible, with some extra settings, such as `no-magic-numbers`, etc.
 ## Installation
 
 ```sh
-npm install tslint-config-alexandria --save-dev
+npm install tslint-config-euclid --save-dev
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ In `tslint.json`:
 
 ```json
 {
-  "extends": "tslint-config-alexandria"
+  "extends": "tslint-config-euclid"
 }
 ```
 

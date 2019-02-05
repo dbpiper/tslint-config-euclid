@@ -1,7 +1,7 @@
 {
   "author": "David Piper",
   "bugs": {
-    "url": "https://github.com/dbpiper/tslint-config-alexandria/issues"
+    "url": "https://github.com/dbpiper/tslint-config-euclid/issues"
   },
   "dependencies": {
     "tslint-config-airbnb": "^5.11.1",
@@ -18,7 +18,7 @@
     "tslint": "^5.12.1",
     "typescript": "^3.3.1"
   },
-  "homepage": "https://github.com/dbpiper/tslint-config-alexandria#readme",
+  "homepage": "https://github.com/dbpiper/tslint-config-euclid#readme",
   "husky": {
     "hooks": {
       "commit-msg": "npx commitlint -E HUSKY_GIT_PARAMS"
@@ -31,10 +31,10 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "tslint-config-alexandria",
+  "name": "tslint-config-euclid",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dbpiper/tslint-config-alexandria.git"
+    "url": "git+https://github.com/dbpiper/tslint-config-euclid.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
