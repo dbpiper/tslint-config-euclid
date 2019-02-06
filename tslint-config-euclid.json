@@ -2,10 +2,10 @@
   "defaultSeverity": "error",
   "extends": [
     "tslint:latest",
+    "tslint-react",
     "tslint-eslint-rules-recommended",
     "tslint-config-airbnb",
-    "tslint-config-airbnb-base",
-    "tslint-react"
+    "tslint-config-airbnb-base"
   ],
   "jsRules": {},
   "rules": {
@@ -31,6 +31,12 @@
       "check-format",
       "allow-leading-underscore",
       "allow-pascal-case"
+    ],
+    "quotemark": [
+      true,
+      "single",
+      "avoid-templates",
+      "jsx-double"
     ]
   }
 }
