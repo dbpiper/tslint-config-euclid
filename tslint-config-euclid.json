@@ -19,6 +19,9 @@
       true,
       2
     ],
+    "no-console": {
+      "severity": "warning"
+    },
     "no-implicit-dependencies": [
       true,
       "dev"
