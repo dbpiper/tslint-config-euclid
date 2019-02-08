@@ -25,18 +25,42 @@
     ],
     "no-unused-variable": false,
     "object-literal-sort-keys": false,
+    "quotemark": [
+      true,
+      "single",
+      "avoid-templates",
+      "jsx-double"
+    ],
+    "ter-arrow-body-style": [
+      true,
+      "as-needed"
+    ],
+    "ter-arrow-parens": [
+      true,
+      "as-needed",
+      {
+        "requireForBlockBody": true
+      }
+    ],
+    "ter-arrow-spacing": [
+      true,
+      {
+        "after": true,
+        "before": true
+      }
+    ],
+    "ter-prefer-arrow-callback": [
+      true,
+      {
+        "allowUnboundThis": false
+      }
+    ],
     "variable-name": [
       true,
       "ban-keywords",
       "check-format",
       "allow-leading-underscore",
       "allow-pascal-case"
-    ],
-    "quotemark": [
-      true,
-      "single",
-      "avoid-templates",
-      "jsx-double"
     ]
   }
 }

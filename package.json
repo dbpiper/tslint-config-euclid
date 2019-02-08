@@ -4,10 +4,10 @@
     "url": "https://github.com/dbpiper/tslint-config-euclid/issues"
   },
   "dependencies": {
-    "tslint-config-airbnb": "^5.11.1",
-    "tslint-config-airbnb-base": "^0.2.0",
     "tslint-eslint-rules": "^5.4.0",
     "tslint-eslint-rules-recommended": "^1.2.0",
+    "tslint-config-airbnb": "^5.11.1",
+    "tslint-config-airbnb-base": "^0.2.0",
     "tslint-react": "^3.6.0"
   },
   "description": "The TSLint configuration I use for Euclid and other Alexandrian projects.",
@@ -17,7 +17,7 @@
     "commitlint": "^7.5.0",
     "husky": "^1.3.1",
     "tslint": "^5.12.1",
-    "typescript": "^3.3.1"
+    "typescript": "^3.3.3"
   },
   "homepage": "https://github.com/dbpiper/tslint-config-euclid#readme",
   "husky": {
@@ -40,7 +40,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.6",
+  "version": "0.0.7",
   "files": [
     "/.package.json",
     "/.LICENSE",
