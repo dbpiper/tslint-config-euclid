@@ -108,3 +108,7 @@ chrome-user-data
 .vscode
 *.swp
 *.swo
+
+
+// X11 files
+.xdg-dir/

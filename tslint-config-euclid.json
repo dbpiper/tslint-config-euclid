@@ -28,6 +28,7 @@
     ],
     "no-unused-variable": false,
     "object-literal-sort-keys": false,
+    "prefer-conditional-expression": false,
     "quotemark": [
       true,
       "single",
