@@ -15,6 +15,7 @@
       "members"
     ],
     "import-name": false,
+    "interface-name": "never-prefix",
     "no-consecutive-blank-lines": [
       true,
       2
